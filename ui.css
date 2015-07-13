@@ -1,0 +1,9 @@
+ body{
+	background-image: url('materialize/images/banner.jpg');
+ }
+ .card-image{
+	background-image: url('materialize/images/black.jpg');
+ }
+.brand-logo{
+	background-image: url('materialize/images/logo.jpg');
+}
